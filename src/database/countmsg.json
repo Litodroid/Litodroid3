@@ -116,6 +116,26 @@
         "jid": "380942499756@s.whatsapp.net",
         "messages": 7,
         "cmd_messages": 5
+      },
+      {
+        "jid": "557187645787:2@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "557193772422@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "557187645787@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0
+      },
+      {
+        "jid": "557187645787:4@s.whatsapp.net",
+        "messages": 88,
+        "cmd_messages": 78
       }
     ]
   }

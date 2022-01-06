@@ -4,6 +4,9 @@ const ownerNumber = ["557187645787@s.whatsapp.net"]
 const OriginalOwner = '557187645787' 
 // mude para seu numero
 
+const registeruser = false
+// Se é obrigatório o usuário se registrar para usar os comandos
+
 const callbotmsgs = ['orion', 'brizas']
 
 var gimagenotregister = false
@@ -233,6 +236,7 @@ ${prefix}broadvoto
 ${prefix}votobroad - Faz uma transmissão da votação para todos que usam o bot`
 
 // Nem ouse mexer aqui se n quiser que de erro
+exports.registeruser = registeruser
 exports.delaygamescmd = delaygamescmd
 exports.delaystealcmd = delaystealcmd
 exports.gpvotohelp = gpvotohelp

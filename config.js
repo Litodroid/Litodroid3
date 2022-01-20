@@ -4,6 +4,9 @@ const ownerNumber = ["557187645787@s.whatsapp.net"]
 const OriginalOwner = '557187645787' 
 // mude para seu numero
 
+const menuimg = 'https://i.imgur.com/2KJfprY.jpg'
+// Link da foto do menu
+
 const registeruser = false
 // Se é obrigatório o usuário se registrar para usar os comandos
 
@@ -295,3 +298,4 @@ exports.vcard = vcard
 exports.OriginalOwner = OriginalOwner
 exports.ownerNumber = ownerNumber
 exports.callbotmsgs = callbotmsgs
+exports.menuimg = menuimg

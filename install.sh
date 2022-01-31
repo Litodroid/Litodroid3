@@ -21,8 +21,8 @@ if [ "$inp" = "s" ]; then
     pkg install tesseract 
     pkg install graphicsmagick 
     pkg install imagemagick 
-    npm install
-    npm i github:ianmsfvenom/baileys#multi-device
+    npm i -g yarn
+    yarn install
     echo $GREEN"Hmmm tudo certo pode dar npm start, escanear o código e se divirta com o bot :)"
 fi
 if [ "$inp" = "n" ]; then

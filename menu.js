@@ -15,7 +15,7 @@ se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
 ┋ ⚡ 𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙄𝙎 ⚡
 ┋
-┋ ${p}brizasapi 
+┋ *${p}basemd* 
 ┋ ${p}listblockcmd 
 ┋ ${p}listpalavra 
 ┋ ${p}info 

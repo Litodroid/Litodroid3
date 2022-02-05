@@ -101,6 +101,27 @@ pm2 start index.js
 
 ----
 
+
+# ⬇️ Instalação pelo windows
+
+Programas:
+----
+---
+
+Ffmpeg: https://ffmpeg.org/download.html
+
+Imagemagick: https://imagemagick.org/script/download.php
+
+Libwebp: https://developers.google.com/speed/webp/download?hl=pt
+
+Tesseract: https://tesseract-ocr.github.io/tessdoc/Downloads.html
+
+Nodejs: https://nodejs.org/en/download/
+
+Ruby: https://rubyinstaller.org
+
+----
+
 # 🙋‍♂️ Mudando as configurações do bot
 Para mudar as configurações do bot os comandos são os mesmo que o brizas orion: 
 
